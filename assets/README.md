@@ -1,9 +1,5 @@
 # Assets
 
-Espace réservé aux ressources du jeu :
+Ressources graphiques, audio et autres ressources utilisées par Fongona City.
 
-- images
-- sons
-- modèles
-- données
-- autres ressources nécessaires à la simulation
+Les ressources externes doivent respecter leurs licences respectives.

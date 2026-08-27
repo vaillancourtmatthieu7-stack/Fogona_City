@@ -1,5 +1,5 @@
 # Backups
 
-Espace réservé aux sauvegardes et archives de développement.
+Répertoire réservé aux sauvegardes locales de développement.
 
-Les sauvegardes importantes peuvent être conservées séparément du fonctionnement normal du jeu.
+Les sauvegardes volumineuses ou contenant des données sensibles ne doivent pas être publiées dans Git.

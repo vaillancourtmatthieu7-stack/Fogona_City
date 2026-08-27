@@ -1,5 +1,14 @@
 # Modules
 
-Espace réservé aux modules additionnels de Fongona City.
+Les modules permettent d'ajouter des fonctionnalités à Fongona City sans modifier inutilement le cœur du jeu.
 
-Les modules pourront ajouter des fonctionnalités sans modifier inutilement le fonctionnement fondamental du monde.
+Exemples futurs :
+
+- agents IA
+- population
+- économie
+- transports
+- environnement
+- mémoire
+- communications
+- nouveaux bâtiments

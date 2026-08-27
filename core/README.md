@@ -1,5 +1,16 @@
-# Core
+# Fongona City Core
 
-Espace réservé aux composants fondamentaux de Fongona City.
+Le Core contient les services fondamentaux de Fongona City.
 
-Le Core doit rester séparé du contenu du monde afin de permettre des évolutions modulaires.
+Il est volontairement séparé des projets Evolux, NanoAI et du futur Redmaniac Core.
+
+## Principes
+
+- état de la simulation
+- événements
+- sauvegarde
+- chargement
+- gestion des modules
+- interfaces internes
+
+Le futur Redmaniac Core pourra éventuellement fournir des services communs sans fusionner les projets.

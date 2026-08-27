@@ -1,21 +1,12 @@
-# Fichiers temporaires
-*.tmp
 *.log
-
-# Sauvegardes locales
+*.tmp
 *.bak
-
-# Systèmes
+*.apk
+*.zip
+*.tar.gz
 .DS_Store
-Thumbs.db
-
-# Éditeurs
-.vscode/
-.idea/
-
-# Node
+.env
 node_modules/
-
-# Fichiers générés
-dist/
-build/
+__pycache__/
+backups/*
+!backups/README.md

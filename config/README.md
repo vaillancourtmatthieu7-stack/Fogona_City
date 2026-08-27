@@ -1,5 +1,5 @@
 # Configuration
 
-Espace réservé aux fichiers de configuration du projet.
+Fichiers de configuration du projet.
 
-Les configurations doivent être séparées du code principal lorsque cela est pertinent.
+Aucune donnée personnelle, clé privée ou secret ne doit être ajouté au dépôt GitHub.
