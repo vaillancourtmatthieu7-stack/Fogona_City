@@ -1,0 +1,21 @@
+# Fichiers temporaires
+*.tmp
+*.log
+
+# Sauvegardes locales
+*.bak
+
+# Systèmes
+.DS_Store
+Thumbs.db
+
+# Éditeurs
+.vscode/
+.idea/
+
+# Node
+node_modules/
+
+# Fichiers générés
+dist/
+build/
