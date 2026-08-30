@@ -118,3 +118,15 @@ Redmaniac Core
 > La licence finale sera ajoutée avant une distribution publique plus large.
 >
 > EOF
+
+
+## 🚀 Projets en ligne
+
+### 🏙️ Fogona City
+
+🌐 https://fogona-city.onrender.com
+
+### 🧠 Evolux
+
+🌐 https://evolux-kernel-ai.onrender.com/
+
