@@ -1,0 +1,12 @@
+{
+  "name": "fogona-city",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Fogona City web application",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
